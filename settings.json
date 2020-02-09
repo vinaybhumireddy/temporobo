@@ -1,0 +1,5 @@
+{
+  "useremailaddress":"Your JIRA Email Address", 
+  "jiraapitoken":"YOUR JIRA API TOKEN", 
+  "jirainstanceurl":"YOUR JIRA URL"
+}
