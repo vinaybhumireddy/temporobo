@@ -1,4 +1,4 @@
-# i2Temporobo
+# Temporobo
 
 A robot that logs your work according your activities everyday for  JIRA.
 You are free to extend it to adapt to your scenario.
